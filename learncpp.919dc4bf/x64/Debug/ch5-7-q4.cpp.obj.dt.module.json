@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "learncpp.919dc4bf\\x64\\Debug\\ch5-7-q4.obj",
+            "outputs": [
+                "learncpp.919dc4bf\\x64\\Debug\\ch5-7-q4.cpp.obj.dt.module.json",
+                "learncpp.919dc4bf\\x64\\Debug\\ch5-7-q4.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
