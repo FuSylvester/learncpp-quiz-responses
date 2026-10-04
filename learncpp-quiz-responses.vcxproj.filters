@@ -27,5 +27,14 @@
     <ClCompile Include="ch5-7-q4.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="ch5-x-q4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ch6-3-q2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ch6-x-q1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

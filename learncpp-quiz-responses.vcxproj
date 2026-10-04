@@ -141,6 +141,9 @@
   <ItemGroup>
     <ClCompile Include="ch4-x-q3.cpp" />
     <ClCompile Include="ch5-7-q4.cpp" />
+    <ClCompile Include="ch5-x-q4.cpp" />
+    <ClCompile Include="ch6-3-q2.cpp" />
+    <ClCompile Include="ch6-x-q1.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="ch4-x-q2.cpp" />
   </ItemGroup>
