@@ -1,0 +1,111 @@
+# ============================================================
+# Visual Studio / MSVC — generic build + IDE state
+# ============================================================
+
+# User-specific files (window layout, breakpoints, startup project)
+*.vcxproj.user
+*.sln.user
+
+# Solution / build output directories
+.vs/
+[Bb]in/
+[Oo]bj/
+x64/
+x86/
+Win32/
+ARM/
+ARM64/
+[Dd]ebug/
+[Rr]elease/
+[Dd]ebug-*/
+[Rr]elease-*/
+[Dd]ebugPublic/
+[Rr]eleasePublic/
+[Dd]ebugServer/
+[Rr]eleaseServer/
+[Ii]ncremental/
+[Ll]ib/
+[Ll]ogs/
+
+# IntelliSense / hash-suffixed IDE folders (your repo has learncpp.<hash>/)
+learncpp.*/
+
+# Build outputs*.app
+*.exe
+*.exe.*
+*.dll
+*.dll.*
+*.pdb
+*.ilk
+*.idb
+*.obj
+*.res
+*.pch
+*.ipdb
+*.pgc
+*.pgd
+*.rsp
+*.recipe
+*.exp*.iobj
+*.ipch
+*.tmp_proj
+*.cache*.cachefile
+*.dbmdl
+*.dbproj.schemaview
+*.jfm
+*.pfx
+*.publishsettings
+*.pubxml
+*.pubxml.user
+*.publishproj
+*.log
+
+# Build logs / dependency scanner / module JSON
+*.tlog/
+*.obj.dt.d.json
+*.obj.dt.module.json
+*.obj.dt.module.json.command
+
+# Clang/MSVC auxiliary*.VC.db
+*.VC.opendb
+
+# Copilot / AI tool caches
+CopilotIndices/
+SemanticSymbols.db
+SemanticSymbols.db-shm
+SemanticSymbols.db-wal
+
+# ============================================================
+# OS junk (belt-and-braces; harmless if not on Windows)
+# ============================================================
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux
+*~
+.fuse_hidden*
+
+# ============================================================
+# Misc
+# ============================================================
+
+# Backup files
+*.bak
+*.tmp
+*.swp
+*.swo
+*_Backup.*
+
+# Local env / secrets (just in case)
+.env
+.env.local
+*.local
