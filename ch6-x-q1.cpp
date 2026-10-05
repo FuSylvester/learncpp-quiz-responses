@@ -43,6 +43,9 @@ This function should use the conditional operator.
 
 */
 
+/*
+My Solution:
+
 #include <iostream>
 
 // Write the function getQuantityPhrase() here
@@ -95,3 +98,4 @@ int main()
 
     return 0;
 }
+*/
