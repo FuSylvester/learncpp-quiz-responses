@@ -45,6 +45,7 @@
     <ClCompile Include="ch7-x-q3.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+<<<<<<< HEAD
     <ClCompile Include="ch8-6-q1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -57,6 +58,8 @@
     <ClCompile Include="ch8-8-q4.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+=======
+>>>>>>> 0fd5e33c7e7a895856fca860ff4c8827421a1fc9
     <ClCompile Include="ch8-10-q1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -69,6 +72,21 @@
     <ClCompile Include="ch8-10-q5.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+<<<<<<< HEAD
+=======
+    <ClCompile Include="ch8-6-q1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ch8-8-q2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ch8-8-q3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ch8-8-q4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+>>>>>>> 0fd5e33c7e7a895856fca860ff4c8827421a1fc9
     <ClCompile Include="ch8-x-q1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -78,6 +96,7 @@
     <ClCompile Include="ch8-x-q3.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+<<<<<<< HEAD
     <ClCompile Include="ch10-x-q1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -129,6 +148,8 @@
     <ClCompile Include="ch12-x-q3.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+=======
+>>>>>>> 0fd5e33c7e7a895856fca860ff4c8827421a1fc9
   </ItemGroup>
   <ItemGroup>
     <None Include=".gitignore">

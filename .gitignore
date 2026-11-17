@@ -109,3 +109,15 @@ $RECYCLE.BIN/
 .env
 .env.local
 *.local
+
+# ============================================================
+# Git accident debris
+# ============================================================
+# `git fsck --lost-found` / `git reflog` output accidentally redirected
+# into a file (e.g. the stray "ck --lost-found" that once landed here).
+# These are never source code.
+lost-found
+*--lost-found
+*.lost-found
+.reflog
+
