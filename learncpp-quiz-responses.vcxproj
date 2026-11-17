@@ -139,6 +139,23 @@
     </Manifest>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="ch10-x-q1.cpp" />
+    <ClCompile Include="ch10-x-2a.cpp" />
+    <ClCompile Include="ch10-x-2b.cpp" />
+    <ClCompile Include="ch11-x-q1a.cpp" />
+    <ClCompile Include="ch11-x-q1b.cpp" />
+    <ClCompile Include="ch11-x-q2a.cpp" />
+    <ClCompile Include="ch11-x-q1c.cpp" />
+    <ClCompile Include="ch11-x-q2b.cpp" />
+    <ClCompile Include="ch11-x-q2c.cpp" />
+    <ClCompile Include="ch11-x-q3.cpp" />
+    <ClCompile Include="ch11-x-q4.cpp" />
+    <ClCompile Include="ch12-3-q1.cpp" />
+    <ClCompile Include="ch12-7-q1.cpp" />
+    <ClCompile Include="ch12-7-q2.cpp" />
+    <ClCompile Include="ch12-x-q1.cpp" />
+    <ClCompile Include="ch12-x-q2.cpp" />
+    <ClCompile Include="ch12-x-q3.cpp" />
     <ClCompile Include="ch4-x-q3.cpp" />
     <ClCompile Include="ch5-7-q4.cpp" />
     <ClCompile Include="ch5-x-q4.cpp" />
@@ -147,6 +164,17 @@
     <ClCompile Include="ch7-x-q1.cpp" />
     <ClCompile Include="ch7-x-q2.cpp" />
     <ClCompile Include="ch7-x-q3.cpp" />
+    <ClCompile Include="ch8-10-q1.cpp" />
+    <ClCompile Include="ch8-10-q2.cpp" />
+    <ClCompile Include="ch8-10-q4.cpp" />
+    <ClCompile Include="ch8-10-q5.cpp" />
+    <ClCompile Include="ch8-6-q1.cpp" />
+    <ClCompile Include="ch8-8-q2.cpp" />
+    <ClCompile Include="ch8-8-q3.cpp" />
+    <ClCompile Include="ch8-8-q4.cpp" />
+    <ClCompile Include="ch8-x-q1.cpp" />
+    <ClCompile Include="ch8-x-q2.cpp" />
+    <ClCompile Include="ch8-x-q3.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="ch4-x-q2.cpp" />
   </ItemGroup>
@@ -155,6 +183,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="constants.h" />
+    <ClInclude Include="random.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
